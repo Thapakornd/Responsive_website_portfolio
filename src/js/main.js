@@ -18,4 +18,4 @@ const sr = ScrollReveal({
 sr.reveal('.home-text',{delay:150, origin:'top'})
 sr.reveal('.home-img',{delay:400, origin:'top'})
 
-sr.reveal('.about, .services, .work, .contact-content, .copyright', {delay:150, origin:'top'})
+sr.reveal('.about, .services, .work, .contact-content', {delay:150, origin:'top'})

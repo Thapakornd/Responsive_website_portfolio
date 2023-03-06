@@ -378,6 +378,9 @@ textarea{
         .about-img{
             order: 2;
         }
+        .work-text p{
+            max-width: 100%;
+        }
         .main-btn{
             max-width: 100%;
             display: grid;
